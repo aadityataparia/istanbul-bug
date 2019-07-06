@@ -1,0 +1,16 @@
+{
+  "name": "istanbul-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "aadityataparia",
+  "license": "MIT",
+  "dependencies": {
+    "@babel/core": "^7.5.0",
+    "@babel/preset-env": "^7.5.0",
+    "babel-plugin-istanbul": "^5.1.4"
+  }
+}
